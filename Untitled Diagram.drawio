@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="d9SCyn3YNdnXIGQbeHX3">
-    <mxGraphModel>
+    <mxGraphModel dx="1238" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-1" value="Registration&lt;div&gt;System&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-2" value="Authentication&lt;div&gt;System&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-3" value="Annoucement System" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-4" value="Payment System" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-5" value="Grade System" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-6" value="Annoucement System" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-9" value="Grade Portal" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-12" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-13" value="Password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="260" y="161" width="60" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-17" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.58;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="shVz7K_KIoUL-IxX1cfW-9" target="shVz7K_KIoUL-IxX1cfW-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="450" as="sourcePoint" />
+            <mxPoint x="420" y="459" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-18" value="Course Management" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shVz7K_KIoUL-IxX1cfW-19" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="shVz7K_KIoUL-IxX1cfW-18" target="shVz7K_KIoUL-IxX1cfW-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="102" y="246" as="sourcePoint" />
+            <mxPoint x="100" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
