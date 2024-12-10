@@ -1,9 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="pe3bYTbhl8I68EiOJdXy">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4" y="90" width="820" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="15" y="110" width="780" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-4" value="Application Logic Subsystem" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="140" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-5" value="" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="740" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="fvKdfxZt3XaWqtrk5Flv-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-7" value="Visitor Navigation Logic" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="207" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-8" value="&lt;b&gt;Building Selection Logic&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="fvKdfxZt3XaWqtrk5Flv-8">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-12" value="&lt;b&gt;Room Selection Logic&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="349" y="240" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-13" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="fvKdfxZt3XaWqtrk5Flv-12">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-14" value="&lt;b&gt;Interactive Map Logic&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="fvKdfxZt3XaWqtrk5Flv-14">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;__Inter_d65c78, __Inter_Fallback_d65c78, ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#374151&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="740" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-17" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="fvKdfxZt3XaWqtrk5Flv-16">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-20" value="Admin Management Logic" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="344" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-23" value="&lt;b&gt;Room Availability Update&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="370" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="fvKdfxZt3XaWqtrk5Flv-23">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-25" value="&lt;b&gt;Authentication Logic&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fvKdfxZt3XaWqtrk5Flv-26" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=Times New Roman;spacing=2;" vertex="1" parent="fvKdfxZt3XaWqtrk5Flv-25">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
